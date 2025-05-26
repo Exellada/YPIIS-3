@@ -1,4 +1,4 @@
-name: PR 3
+name: Real Artifact Workflow
 
 on:
   push:
